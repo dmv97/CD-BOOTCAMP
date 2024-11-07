@@ -35,3 +35,6 @@ for i in range(numInicial, numFinal + 1):
     if i % multiplo == 0:
         print(i)
         
+#   (\(\
+#   ( -.-)
+#    o_(")(")
