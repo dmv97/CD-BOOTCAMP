@@ -1,4 +1,5 @@
-# Cabecero informativo
+print("="*40 + "\n")
+# main 
 print("# BOOTCAMP CODING DOJO - Introducción a Python / Bucles for: Básico 1 (Core)")
 print("# Alumno: DANTE MARENGO\n")
 print("="*20 + "\n")
@@ -57,3 +58,4 @@ print(r"""
    ( -.-)
     o_(")(")
 """)
+print("="*45 + "\n")
