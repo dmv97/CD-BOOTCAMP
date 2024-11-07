@@ -1,4 +1,5 @@
 #BOOTCAMP CODING DOJO - Introducción a Python / Bucles for: Básico 1 (Core)
+
 #1 print del 0 al 100
 for i in range(101):
     print(i)
