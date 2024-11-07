@@ -1,3 +1,4 @@
+print("="*45 + "\n")
 print("# BOOTCAMP CODING DOJO - Introducción a Python / Hola mundo (Core)")
 print("# Alumno: DANTE MARENGO\n")
 print("="*45 + "\n")
@@ -48,11 +49,9 @@ print("hola, %s!" % nombre) # usando el estilo antiguo con %
 print("hola %d!" % numero)
 
 
-
 print(r"""
    (\(\
    ( -.-)
     o_(")(")
 """)
-
 print("="*45 + "\n")
