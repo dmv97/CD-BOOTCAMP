@@ -1,5 +1,5 @@
 #### BOOTCAMP CODING DOJO - Introducción a Python / Hola mundo (Core)
-#### ALUMNO: DANTE MARENGO
+#### ALUMNO: DANTE MARENGO 
 
 # 1. Imprime "Hola, mundo"
 
