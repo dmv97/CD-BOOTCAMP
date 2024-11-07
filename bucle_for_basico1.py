@@ -1,8 +1,8 @@
-print("="*40 + "\n")
-# main 
+# START
+print("="*45 + "\n")
 print("# BOOTCAMP CODING DOJO - Introducción a Python / Bucles for: Básico 1 (Core)")
 print("# Alumno: DANTE MARENGO\n")
-print("="*20 + "\n")
+print("="*45 + "\n")
 
 # Ejercicio 1: Básico
 print("Ejercicio 1: Básico")
@@ -59,3 +59,4 @@ print(r"""
     o_(")(")
 """)
 print("="*45 + "\n")
+# FIN
