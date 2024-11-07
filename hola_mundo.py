@@ -1,5 +1,6 @@
-#### BOOTCAMP CODING DOJO - Introducción a Python / Hola mundo (Core)
-#### ALUMNO: DANTE MARENGO 
+print("# BOOTCAMP CODING DOJO - Introducción a Python / Hola mundo (Core)")
+print("# Alumno: DANTE MARENGO\n")
+print("="*45 + "\n")
 
 # 1. Imprime "Hola, mundo"
 
@@ -48,9 +49,10 @@ print("hola %d!" % numero)
 
 
 
+print(r"""
+   (\(\
+   ( -.-)
+    o_(")(")
+""")
 
-
-
-#   (\(\
-#   ( -.-)
-#    o_(")(")
+print("="*45 + "\n")
